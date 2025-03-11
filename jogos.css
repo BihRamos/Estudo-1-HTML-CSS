@@ -1,0 +1,63 @@
+#area-cabecalho-jogos{
+    text-align: center;
+    background-color: #8b0735;
+    padding: 15px;
+    font-family:"Nerko One", system-ui;
+
+}
+#area-cabecalho-jogos h1{
+    font-size: 52px;
+
+}
+
+.jogos{
+    background-color: rgb(212, 203, 203);
+    width: 260px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 9px 7px 5px rgb(165, 168, 164);
+}
+
+.jogos:hover{
+    background-color: rgb(197, 86, 86);
+    cursor: pointer;
+
+}
+
+.jogos h2{
+    color: rgb(34, 32, 32);
+    text-align: center;
+   margin-bottom: 10px;
+}
+.jogos img{
+    width: 260px;
+    height: 180px;
+    border-radius: 100px;
+
+}
+#area-jogos{
+   
+   
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+   
+}
+
+#area-rodape{
+    width: 900px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    color:aliceblue
+
+}
+#area-fundo{
+    background-color: rgb(2, 2, 2);
+}
